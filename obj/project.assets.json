@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\UCP\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\tictactoe.csproj",
+      "projectUniqueName": "H:\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\tictactoe.csproj",
       "projectName": "tictactoe",
-      "projectPath": "H:\\UCP\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\tictactoe.csproj",
+      "projectPath": "H:\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\tictactoe.csproj",
       "packagesPath": "C:\\Users\\Debbie\\.nuget\\packages\\",
-      "outputPath": "H:\\UCP\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\obj\\",
+      "outputPath": "H:\\Level 5\\Sem2\\Advanced Programming\\Task 1\\tictactoe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.113\\RuntimeIdentifierGraph.json"
       }
     }
   }
