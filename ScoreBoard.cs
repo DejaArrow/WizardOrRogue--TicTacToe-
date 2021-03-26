@@ -108,7 +108,7 @@ namespace WoR
                             ScoreList[i + 1] = temp;
                         }
                     }
-                } // Sorts the Score into Ascending order for display.
+                } // Bubble Sorts the Score into Ascending order for display.
             }
 
         }

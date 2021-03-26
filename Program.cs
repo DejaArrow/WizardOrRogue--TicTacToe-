@@ -2,7 +2,9 @@
 
 namespace WoR
 {
-    //Wizards or Rogues
+    /// <summary>
+    /// Wizard or Rogues. TicTacToe based game. Has room for expansion in future.
+    /// </summary>
 
     public static class Program
     {
