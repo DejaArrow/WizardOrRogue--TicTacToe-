@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace WoR
 {
     /// <summary>
-    /// Strategy Design Pattern.
+    /// Strategy Design Pattern - Behavioural pattern to control communiction between classes. 
     /// <!-- Having different scoring alogorithms provides a reason to choose between a wizard or a rogue. A Wizard does better on the straights, Rogues work best on diagonals-->
     /// </summary>
     public abstract class CalculateScoreAlgorithm

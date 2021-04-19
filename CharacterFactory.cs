@@ -53,27 +53,27 @@ namespace WoR
         {
         this.DrawSymbol = 'F';
         }
-    } // Sets FireWizard marker as 'F'
+    } // Sets FireWizard marker as 'F'. Future implementation: Fire Wizard could burn up a Rogue space.
 
     public class IceWizard : Character { 
         public IceWizard()
         {
         this.DrawSymbol = 'I';
         }
-    } //Sets IceWizard marker as 'I'
+    } //Sets IceWizard marker as 'I'. Future implementation: Can freeze the Rogue in place for a turn
 
     public class StealthRogue : Character { 
         public StealthRogue()
         {
         this.DrawSymbol = 'S';
         }
-    } //Sets StealthRogue marker as 'S'
+    } //Sets StealthRogue marker as 'S'. Future implementation: Turns invisible for a turn so Wizard doesn't know its location.
 
     public class TrapperRogue : Character { 
         public TrapperRogue()
         {
         this.DrawSymbol = 'T';
         }
-    } //Sets TrapperRogue marker as 'T
+    } //Sets TrapperRogue marker as 'T. Future implementation: Traps the wizard in place for a turn.
 
 }
